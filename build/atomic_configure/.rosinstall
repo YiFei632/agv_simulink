@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/wang/catkin_ws/agv_simulation_ws/devel/setup.sh
